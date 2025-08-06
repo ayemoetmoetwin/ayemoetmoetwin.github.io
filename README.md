@@ -38,13 +38,11 @@ My most recent app I built and released on the App Store. I created this app out
 - 📲 WidgetKit
 
 
-# [Magic Budget](https://apps.apple.com/us/app/magic-budget/id6447111418)
+# [CityNexus-Meet Me in the City](https://apps.apple.com/us/app/citynexus-meet-me-in-the-city/id1634174260)
 This app has been a passion project of mine over the past couple years. Magic Budget is a Disney Parks budget planning app. Me and my husband absolutely love going to the parks but we always find ourselves coming over budget (too many churros). I built this app to help solve this problem! I found the estimated price for many of the popular items in the parks so users can quickly budget for what they might buy on their trip. 
 
 <p align="center">
- <img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/d26e2525-5b46-4814-ad01-b2141f3a4fcf", width="200"/>
-<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/142c72ae-ffa2-4759-9c47-fc6d65d91316", width="200"/>
-<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/2edf6ae3-4f8a-4c99-a9e7-2d6f1a3c48a6", width="200"/>
+ <img src="https://github.com/user-attachments/assets/e7a1444e-4227-4b80-9125-93273f994386"/>
 </p>
 
 
