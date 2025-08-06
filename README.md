@@ -4,7 +4,7 @@
  
 ### 👋 Hi! I'm a self-taught freelance/indie iOS Engineer. Here's a bit of what I've been working on.
 
-# [Clockology](https://apps.apple.com/us/app/clockology/id1456386228)
+# [Mycomm MM](https://apps.apple.com/us/app/mycomm-mm/id6680192119)
 (Contract Work)
 I've have the opportunity to contribute to this incredible iOS/watchOS App. Using SwiftUI, I've helped refresh some of the designs, implement a new generic Calendar and Chart layer for users to add to their watch faces, and help with various bug fixes and design updates. This is ongoing work and just a few examples of the things I've had the opportunity to work on.
 
