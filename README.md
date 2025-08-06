@@ -21,14 +21,12 @@ I've have the opportunity to contribute to this incredible iOS/watchOS App. Usin
 - ⌚️ Added a watch band preview feature so users can see what their face could like like with popular band options"
 - Other UI and bug fixes
 
-# [AppIdeaasApp](https://apps.apple.com/us/app/appideasapp/id6476480047)
+# [Rezerve](https://apps.apple.com/us/app/rezerv-gym-wellness-sports/id1661249713)
 My most recent app I built and released on the App Store. I created this app out of personal need. I have SO MANY random app ideas and wanted a place I could easily keep track of them. AppIdeasApp lets you create app ideas, brainstorm everything from name ideas, feature ideas, color schemes, and more. Less forgetting. More building. More shipping. I wanted to challenge my design skills on this project and had fun adding some animations (all with SwiftUI of course!)
 
 
 <p align="center">
-<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/e619a6ce-7e2b-4c45-b84f-d6f4f64eb243, width="200", height="355"/>
-<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/fd6932ea-17c7-46aa-8ac4-49b07d058bec", width="200",height="300" />
-<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/9153668b-4641-4e87-80d1-8828ec8d135c", width="200", height="300"/>
+<img src="https://github.com/user-attachments/assets/23e4df2f-b738-40d2-a1a7-501ae14a6cd5"/>
 </p>
 
 **Tech Used**
