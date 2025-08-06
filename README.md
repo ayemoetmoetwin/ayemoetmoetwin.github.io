@@ -11,9 +11,7 @@ I've have the opportunity to contribute to this incredible iOS/watchOS App. Usin
 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/77723a34-f34d-4784-a74d-463aff38de92", width="200"/>
-<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/33bf4d41-00e6-4b2b-8063-056a70e053b6", width="200"/>
-<img src="https://github.com/user-attachments/assets/e0e5fd5c-c75a-4cd0-9b78-f6d14378ea44", width="200"/>
+<img src="https://github.com/user-attachments/assets/7688c8cf-bc09-4beb-ba67-68070dd2412e", width="200"/>
 </p>
 
 - 💬 Wrote a Python script to help with the app's localization
