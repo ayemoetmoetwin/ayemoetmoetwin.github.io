@@ -96,12 +96,12 @@ Built using Swift and UIKit, this project gave me the chance to blend technology
 
 
 **Tech Used**
-- 💿 Core Data
-- 🎨 SwiftUI
-- 🏦 App Storage
-- 🚘 Roadmap
-- 💰 IAP
-- ⏱️ Queue Times API
+- 💿 Core Data – for native local data storage
+- 🎨 Storyboard – for UI layout and visual design in Xcode
+- 🏦 Realm Database – for efficient mobile data storage
+- 🧭 MVVM – for scalable, testable architecture
+- 🔁 RxSwift – for reactive programming and async handling
+- 🌐 REST API – for backend communication and data exchange
 
 br/>
 <br/>
@@ -123,9 +123,9 @@ Working on this national initiative has allowed me to blend technical skills wit
 
 
 **Tech Used**
-- 💿 Core Data
-- 🎨 SwiftUI
-- 🏦 App Storage
-- 🚘 Roadmap
-- 💰 IAP
-- ⏱️ Queue Times API
+- 💿 Core Data – for native local data storage
+- 🎨 Storyboard – for UI layout and visual design in Xcode
+- 🏦 Realm Database – for efficient mobile data storage
+- 🧭 MVVM – for scalable, testable architecture
+- 🔁 RxSwift – for reactive programming and async handling
+- 🌐 REST API – for backend communication and data exchange
