@@ -11,7 +11,7 @@ I've have the opportunity to contribute to this incredible iOS/watchOS App. Usin
 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/7688c8cf-bc09-4beb-ba67-68070dd2412e", width="200"/>
+<img src="https://github.com/user-attachments/assets/7688c8cf-bc09-4beb-ba67-68070dd2412e"/>
 </p>
 
 - 💬 Wrote a Python script to help with the app's localization
