@@ -75,7 +75,7 @@ This app has been a passion project of mine over the past couple years. Magic Bu
 This app has been a passion project of mine over the past couple years. Magic Budget is a Disney Parks budget planning app. Me and my husband absolutely love going to the parks but we always find ourselves coming over budget (too many churros). I built this app to help solve this problem! I found the estimated price for many of the popular items in the parks so users can quickly budget for what they might buy on their trip. 
 
 <p align="center">
- <img src="https://github.com/user-attachments/assets/0e0f3b85-2ea6-4335-906a-fb73e4c0f827"/>
+ <img src="https://github.com/user-attachments/assets/429f3f6f-9435-4f4f-8e89-b3d0db06522f"/>
 </p>
 
 
