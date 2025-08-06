@@ -2,11 +2,18 @@
 ![Neutral Creative Professional LinkedIn Article Cover Image-2](https://github.com/user-attachments/assets/3635412a-a647-431c-ac8b-b907dac6e00d)
        
  
-### 👋 Hi! I'm a self-taught freelance/indie iOS Engineer. Here's a bit of what I've been working on.
+### 👋 Hi, I’m developing iOS applications passionate about coding and UI/UX design. 
+
+Here is 👉 I work on some <b>AWESOME</b> projects!!
+
 
 # [Mycomm MM](https://apps.apple.com/us/app/mycomm-mm/id6680192119)
-(Contract Work)
-I've have the opportunity to contribute to this incredible iOS/watchOS App. Using SwiftUI, I've helped refresh some of the designs, implement a new generic Calendar and Chart layer for users to add to their watch faces, and help with various bug fixes and design updates. This is ongoing work and just a few examples of the things I've had the opportunity to work on.
+(Full-Time Work)
+I've had the opportunity to contribute to the development of the MyComm MM iOS App, a community-focused platform. My work, using Swift and UIKit, includes:
+- Refreshing and modernizing several key UI components to improve user experience.
+- Implementing a new chat messaging feature to allow users to engage more actively with their community.
+- Supporting the team with ongoing bug fixes and design enhancements to ensure smooth performance and visual consistency.
+This is ongoing work, and the above are just a few highlights of my contributions so far.
 
 
 
@@ -14,12 +21,15 @@ I've have the opportunity to contribute to this incredible iOS/watchOS App. Usin
 <img src="https://github.com/user-attachments/assets/7688c8cf-bc09-4beb-ba67-68070dd2412e"/>
 </p>
 
-- 💬 Wrote a Python script to help with the app's localization
-- 📊 Built a generic chart layer with SwiftCharts to handle the data and settings the User chooses to use
-- 🔹 Helped add custom watch hands to the app usings custom SwiftUI Shapes
-- 📲 Incorporated tap gestures to improve the watch face editor experience
-- ⌚️ Added a watch band preview feature so users can see what their face could like like with popular band options"
-- Other UI and bug fixes
+🌍 Utilized R.swift template to streamline app localization and resource management
+📡 Built MyComm, a real-time community chat app with Firebase notifications and WebSocket-based messaging
+🧩 Architected the app using MVVM with RxSwift and RxCocoa for a modular and testable codebase
+🖌️ Worked closely with UI/UX designers to craft an intuitive interface for strong community engagement
+🔧 Delivered various UI improvements and tackled layout inconsistencies for enhanced stability
+🐛 Identified and resolved multiple UI bugs, improving visual consistency across views
+✨ Applied final UI polish, addressing edge cases and refining interactive elements
+
+
 
 # [Rezerve](https://apps.apple.com/us/app/rezerv-gym-wellness-sports/id1661249713)
 My most recent app I built and released on the App Store. I created this app out of personal need. I have SO MANY random app ideas and wanted a place I could easily keep track of them. AppIdeasApp lets you create app ideas, brainstorm everything from name ideas, feature ideas, color schemes, and more. Less forgetting. More building. More shipping. I wanted to challenge my design skills on this project and had fun adding some animations (all with SwiftUI of course!)
