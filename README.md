@@ -1,5 +1,5 @@
 
-![Neutral Creative Professional LinkedIn Article Cover Image-2](https://github.com/user-attachments/assets/2b010709-37b9-4ac8-aefc-52498ead4b6f)
+![Neutral Creative Professional LinkedIn Article Cover Image-2](https://private-user-images.githubusercontent.com/104297465/474970435-a8457698-b37f-4c25-aad5-a013ec698adc.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ0Nzc5ODksIm5iZiI6MTc1NDQ3NzY4OSwicGF0aCI6Ii8xMDQyOTc0NjUvNDc0OTcwNDM1LWE4NDU3Njk4LWIzN2YtNGMyNS1hYWQ1LWEwMTNlYzY5OGFkYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgwNlQxMDU0NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZGQ3ZmM0YzZmYTU4NDgyMjlhYzAwZTBlZGQ3M2I3NTIwOWNlNzRkYTNlODIwNWZlMWMxNTgzMjcwYTg2ZGUwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.O064unhipysn4cczHGHCPQbqqSzpD0s_s_MOMAE_YnU)
        
  
 ### 👋 Hi! I'm a self-taught freelance/indie iOS Engineer. Here's a bit of what I've been working on.
