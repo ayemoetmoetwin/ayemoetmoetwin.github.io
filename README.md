@@ -54,6 +54,40 @@ This app has been a passion project of mine over the past couple years. Magic Bu
 - 💰 IAP
 - ⏱️ Queue Times API
 
+# [Myanmar Be Enchanted](https://apps.apple.com/us/app/myanmar-be-enchanted/id1530882072)
+This app has been a passion project of mine over the past couple years. Magic Budget is a Disney Parks budget planning app. Me and my husband absolutely love going to the parks but we always find ourselves coming over budget (too many churros). I built this app to help solve this problem! I found the estimated price for many of the popular items in the parks so users can quickly budget for what they might buy on their trip. 
+
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/0e0f3b85-2ea6-4335-906a-fb73e4c0f827"/>
+</p>
+
+
+**Tech Used**
+- 💿 Core Data
+- 🎨 SwiftUI
+- 🏦 App Storage
+- 🚘 Roadmap
+- 💰 IAP
+- ⏱️ Queue Times API
+
+
+# [Myanmar National Portal](https://apps.apple.com/us/app/myanmar-national-portal/id1535415602)
+This app has been a passion project of mine over the past couple years. Magic Budget is a Disney Parks budget planning app. Me and my husband absolutely love going to the parks but we always find ourselves coming over budget (too many churros). I built this app to help solve this problem! I found the estimated price for many of the popular items in the parks so users can quickly budget for what they might buy on their trip. 
+
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/0e0f3b85-2ea6-4335-906a-fb73e4c0f827"/>
+</p>
+
+
+**Tech Used**
+- 💿 Core Data
+- 🎨 SwiftUI
+- 🏦 App Storage
+- 🚘 Roadmap
+- 💰 IAP
+- ⏱️ Queue Times API
+
+
 ## Creator View
 Creator View is an app developed by Sean Allen that helps YouTubers get a bigger picture of their business. 
 <br>I have had the opportunity to contribute to a few areas of this app. Check it out below!
